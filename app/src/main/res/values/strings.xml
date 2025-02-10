@@ -4,6 +4,8 @@
     <string name="num2">Ingrese el 2do numero</string>
     <string name="sumar">Sumar</string>
     <string name="restar">Restar</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="dividir">Dividir</string>
     <string name="calcular">CALCULAR</string>
     <string name="result">resultado...</string>
 </resources>
